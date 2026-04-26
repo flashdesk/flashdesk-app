@@ -17,3 +17,9 @@ Free for personal use
 Commercial use: $6.99 / seat / month  
 
 Download: [https://flashdesk.io/](https://flashdesk.io/)
+
+![img](docs/screenshot-01.svg)
+![img](docs/screenshot-02.svg)
+![img](docs/screenshot-03.svg)
+![img](docs/screenshot-04.svg)
+![img](docs/screenshot-05.svg)
