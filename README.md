@@ -12,6 +12,7 @@ FlashDesk is a lightweight tool designed for real remote work.
 - P2P connection with relay fallback
 
 Works on Windows, macOS, Linux.
+
 Supports 27 languages, including English.
 
 Free for personal use  
