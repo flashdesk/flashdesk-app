@@ -1,11 +1,12 @@
 # FlashDesk
 
-All-in-one remote desktop for work and support.
+All your remote work tools in one lightweight app.
 
-FlashDesk is a lightweight tool designed for real remote work.
+FlashDesk brings screen sharing, remote control, SSH, recording, file transfer, and connection management together so
+remote work can move faster with less switching.
 
-- Remote desktop (screen sharing & control)
-- SSH (CLI access)
+- Remote desktop: screen sharing and control
+- SSH: CLI access
 - File transfer
 - Session recording
 - Connection management
